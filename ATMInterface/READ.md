@@ -13,10 +13,10 @@ Enter PIN: 1234 (or 4321)
 
 ## How to Run
 1. Download the code or clone the repository:
-git clone https://github.com/GayathriRaoDev/ATMInterface
+   git clone https://github.com/GayathriRaoDev/OIBSIP.git
 
-2. Open it in any Java IDE (like NetBeans or Eclipse).
-3. Run the main Java file ('ATMMain.java' or your main class).
+3. Open it in any Java IDE (like NetBeans or Eclipse).
+4. Run the main Java file ('ATMMain.java' or your main class).
 
 ## Technologies Used
 - Java (Core)
