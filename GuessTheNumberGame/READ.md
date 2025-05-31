@@ -23,7 +23,7 @@ This is a simple interactive Java game created using NetBeans. The game uses dia
 1. **Clone the Repository** or [Download as ZIP](https://github.com/GayathriRaoDev/GuessTheNumberGame):
 
    '''bash
-   git clone https://github.com/GayathriRaoDev/GuessTheNumberGame
+   git clone https://github.com/GayathriRaoDev/OIBSIP.git
 
    ## Author
 Gayathri Rao
